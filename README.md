@@ -1,3 +1,7 @@
+### This project Learning about web3 by using solidity for smart contracts deploy to Georly Testnet Network and using reactjs build frontend minting website. 
+이 프로젝트는 ERC721 스마트 컨트랙트로 구성된 ㄷㅅ이더리움 기반 NFT 민팅페이지입니다.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
